@@ -10,7 +10,6 @@
     <img src="https://media.dribbble.com/users/19704/screenshots/15637256/media/6ddf8f69f42d68bb3c9b6e0da7e1b633.gif" alt="Coding GIF" style="height: 200px; margin-left: 20px;" />
 </div>
 
-<br clear="both">
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
@@ -34,14 +33,10 @@
 <br><br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwgily&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwgily&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwgily&" alt="Streak Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwgily&theme=dark" alt="Streak Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwgily&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
-
-
 <h3 align="center" style="color: white;">Connect with Me</h3>
-
 <div align="center">
     <a href="https://www.linkedin.com/in/himanshurana0627" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
